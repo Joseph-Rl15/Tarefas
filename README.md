@@ -11,7 +11,11 @@ Treeview (ttk)
 
 Funcionalidades
 Adicionar tarefas
+
 Remover tarefas
+
 Marcar como concluída (fica verde)  
+
 Salvar automaticamente em JSON  
+
 Carregar tarefas ao abrir o app  
